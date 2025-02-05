@@ -1,10 +1,45 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 50219 ***
+The Project Gutenberg EBook of A Journal of the Disasters in Affghanistan,
+1841-2, by Florentia Sale
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: A Journal of the Disasters in Affghanistan, 1841-2
+
+Author: Florentia Sale
+
+Release Date: October 15, 2015 [EBook #50219]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DISASTERS IN AFFGHANISTAN, 1841-2 ***
+
+
+
+
+Produced by MWS, Chris Pinfield and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
 
 Transcriber's Note:
 
 Apparent typographical errors have been corrected and hyphenation
 rationalised. Inconsistent accents have been retained. Small capitals
 have been replaced by regular capitals.
+
+Macrons and "oe" ligatures have been removed and a asterism replaced by
+three stars.
 
 
 
@@ -59,7 +94,7 @@ INTRODUCTION                                               1
 CABUL.
 
  The Zoormut Expedition                                    6
- Revolt of T√©zeen and Bhoodkhak                            8
+ Revolt of TÈzeen and Bhoodkhak                            8
  Departure of Gen. Sale's Brigade from Cabul              10
  Losses at the Khood Cabul pass                           11
  Terms made with the Chiefs                               21
@@ -130,7 +165,7 @@ THE CAPTIVITY.
  Change of jailors                                       309
  Offers for ransoming the Prisoners                      311
  Report of the murder of Shah Shoojah                    317
- March for T√©zeen                                        321
+ March for TÈzeen                                        321
  Major Pottinger expostulates with the Sirdar            328
  Death of Gen. Elphinstone                               332
  Insults offered to his corpse on its way to Jellalabad  334
@@ -212,7 +247,7 @@ _Bash_ or _bosh_. Nothing--humbug.
 
 _Bashee._ A head-man.
 
-_B√©danas._ A sort of mulberry.
+_BÈdanas._ A sort of mulberry.
 
 _Behmaru._ The name of a village near Cabul. The word signifies "the
 husbandless."
@@ -290,7 +325,7 @@ _Cossid._ A courier--an express--a foot messenger.
 _Crore._ Ten lakhs of rupees, or one million pounds sterling.
 
 
-_DƒÅk._ Letter post.
+_Dak._ Letter post.
 
 _Dallies._ Baskets for fruits, &c.--panniers.
 
@@ -835,11 +870,11 @@ compromised our faith, and caused a pretty general insurrection, said to
 be headed by Meer Musjude.
 
 The Kohistanee chiefs are urged on by the Dooranee Chiefs in Cabul, and
-all the country about T√©zeen and Bhoodkhak is in a state of revolt. It
+all the country about TÈzeen and Bhoodkhak is in a state of revolt. It
 is only wonderful this did not take place sooner.
 
 The Indian government have for some time been constantly writing
-regarding the enormous expenditure in Affghanistan, every dƒÅk has
+regarding the enormous expenditure in Affghanistan, every dak has
 reiterated retrench; but instead of lessening the political expences and
 making deductions in that department, they commenced by cutting off
 these 40,000 rupees from the chiefs.
@@ -848,12 +883,12 @@ Affairs having assumed this gloomy appearance, the Envoy sent in all
 haste for the force under Col. Oliver to return as quickly as possible,
 leaving it to Capt. Macgregor's diplomatic ability to patch up the Zaho
 business as best he might, and come to the rescue with his advice
-regarding the T√©zeenites, with whose customs, &c. he had much
+regarding the TÈzeenites, with whose customs, &c. he had much
 familiarity. Macgregor strongly advised the not stirring up a hornet's
 nest, and wished to try what he could do by diplomacy. Valour, however,
 was the order of the day; and various were the suggestions of the
 politicals. One plan was, that Gen. Sale's brigade, on its way down to
-the provinces, should make a detour vi√¢ Nigerow. The troops were not to
+the provinces, should make a detour vi‚ Nigerow. The troops were not to
 fight but only by their presence to overawe the Nigerowians, whilst some
 neighbouring tribes, who had a blood feud with them, should make the
 attack. Plans of the country were sent in, with imaginary roads drawn on
@@ -935,7 +970,7 @@ _17th._--Col. Oliver's force returned; Capt. Abbott's guns have had
 their carriages much damaged; the spokes of sundry wheels are absent,
 thanks to the acclivities and declivities of the Al-Timor pass, so that
 he requires a few days to put all to rights before he can go to join
-Sale with the 37th: when they do so, the brigade will move on T√©zeen.
+Sale with the 37th: when they do so, the brigade will move on TÈzeen.
 
 _18th._--The enemy came down (a chupao or night attack), 400 strong, on
 Khoord Cabul, where an action was fought with great loss on both sides;
@@ -981,12 +1016,12 @@ is detained until more camels can reach them from Cabul.
 
 _23d._--Much firing has been heard, and great anxiety prevails. All the
 forts about Cabul are empty, and the Juwans have gone (it is said) to
-aid in the fight against us at T√©zeen: Sale writes that the report is,
-that the people at T√©zeen say they are unable to cope with us in battle,
+aid in the fight against us at TÈzeen: Sale writes that the report is,
+that the people at TÈzeen say they are unable to cope with us in battle,
 but that they intend to plunder and annoy the force on its way down.
 
 _24th._--Sturt sent me a note before I was dressed this morning to
-inform me, that at T√©zeen one small fort had been evacuated, and that
+inform me, that at TÈzeen one small fort had been evacuated, and that
 Lieut. E. King, of the 13th light infantry, was killed. In the course of
 the morning I heard that the 13th, having expended their ammunition,
 were obliged to retreat; that poor King, being the last man to do so,
@@ -1049,7 +1084,7 @@ say, that information is difficult to procure, and that it all comes
 from our enemies.
 
 _25th._--I received a letter from Sale, in which he informs me, that the
-conduct of the troops employed in the affair at T√©zeen was good beyond
+conduct of the troops employed in the affair at TÈzeen was good beyond
 all praise; but, concluding that I had heard all the particulars, he did
 not enter into detail. He wrote me that he was to halt that day (the
 24th), as Macgregor was in treaty with the chiefs, who he says are
@@ -1078,12 +1113,12 @@ to ride so early in the morning or so late in the evening as was his
 wont; but, whether from policy or natural fearlessness, he has not
 attended to their advice. The Akhoonzadah has also told him that three
 men have sworn on the Koran to take his life. The people of Tagow and
-Lughman are leagued with those of T√©zeen. Capt. Macgregor writes that a
+Lughman are leagued with those of TÈzeen. Capt. Macgregor writes that a
 great quantity of ammunition was left on the road for want of camels to
 carry it on, which must have proved a great prize to the enemy, who were
 much in want of it.
 
-_26th._--There being a report that all was peaceably settled at T√©zeen,
+_26th._--There being a report that all was peaceably settled at TÈzeen,
 I became very anxious for intelligence. Two letters were brought to me,
 but alas! neither of them were to my address, one being from Capt.
 Havelock to Gen. Elphinstone, the other from Capt. Paton to Major Thain.
@@ -1156,7 +1191,7 @@ protection, whilst he and his son were in arms against us, and they
 naturally consider their safety as a proof of that of any hostages they
 leave with us.
 
-The dƒÅks, which have not arrived since the 2d (nor have been
+The daks, which have not arrived since the 2d (nor have been
 despatched since the 4th), are confidently asserted to be now on their
 way, and are expected in to-morrow at the farthest. No one appears to
 have been made acquainted with the terms of the treaty, which have been
@@ -1165,10 +1200,10 @@ them better terms than he himself would have done. They are to get the
 40,000 rupees the quarrel began about, and they promise to return us any
 property they can find of ours: so that we leave off where we set out,
 barring our killed and wounded, expence, loss of ammunition and baggage,
-and annoyance of the detention, if not loss, of our d√¢ks, bhanghys, &c.
+and annoyance of the detention, if not loss, of our d‚ks, bhanghys, &c.
 
 _27th._--I hear that Macgregor writes to the Envoy that the country
-about T√©zeen never was in so tranquil a state as it is at present! Now,
+about TÈzeen never was in so tranquil a state as it is at present! Now,
 with a little variation in the wording, he might have cautiously written
 to the Envoy, so as to be understood by him alone, and have intimated
 that the country was now as quiet as it ever was; which, to those who
@@ -1176,7 +1211,7 @@ know the wild tribes thereabouts located, indicates any thing but a
 state of pacification.
 
 The sick are again ordered to be off to-morrow, with a wing of the 54th,
-to T√©zeen, where the 37th awaits their arrival; and at present it is
+to TÈzeen, where the 37th awaits their arrival; and at present it is
 supposed that the Envoy and General will follow on the 1st.
 
 _28th._--Sale has written me that he arrived at Seh Baba on the 26th at
@@ -1194,11 +1229,11 @@ arm, the bone broken, and the ball went through into his side. Lieut.
 Rattray (13th) wounded, and a sergeant killed and 3 men wounded; 4 or 5
 Sipahees[3] of the 35th wounded.
 
-_30th._--A small d√¢k has come in for the Envoy and General only, and
-that only newspapers; the Envoy sent orders to have the d√¢k sent by a
+_30th._--A small d‚k has come in for the Envoy and General only, and
+that only newspapers; the Envoy sent orders to have the d‚k sent by a
 private path, which succeeded.
 
-It seems that the terms made with the chiefs of T√©zeen were, the
+It seems that the terms made with the chiefs of TÈzeen were, the
 remission of the money which gave rise to the dispute. They were
 required to call out the _Ooloos_, which they represented would be
 attended with considerable expense, so they received 10,000 rupees to
@@ -1252,7 +1287,7 @@ Gen. Elphinstone is to give up the command to him from the 1st of Nov.
 The reason that our house is in future to be appropriated by the chief
 arises from its being the best and most commodious. Sir Willoughby
 Cotton gave his plan, and Sale his, when the houses were built; and Sir
-Willoughby living _en gar√ßon_ had omitted many little comforts that we
+Willoughby living _en garÁon_ had omitted many little comforts that we
 had considered indispensable. Added to which, Sale had a _shoke_ for
 gardening, and had an excellent kitchen-garden; whilst I cultivated
 flowers that were the admiration of the Affghan gentlemen who came to
@@ -1325,7 +1360,7 @@ plundered, and the people were all fighting.
 Our Affghan servant, Mahomed Ali, who used to sleep in the city, when he
 passed out to come to my house in the morning was threatened, and
 reviled as the chuprassy of the Feringhee General, who, they asserted,
-had been beaten at T√©zeen, and that all his troops had run away, and he
+had been beaten at TÈzeen, and that all his troops had run away, and he
 with them!
 
 The Shah resides in the Bala Hissar, and his guns from that fortress
@@ -1424,7 +1459,7 @@ report states that Trevor, his wife, and one child, have escaped, whilst
 his six other children have been murdered. Another, that he has escaped,
 but that his wife and seven children are all murdered.
 
-The Kuzzilbash quarter of the city is said to be all quiet. Na√Øb
+The Kuzzilbash quarter of the city is said to be all quiet. NaÔb
 Shureef's son has been killed in some of the scuffles in the city.
 Abdoollah Khan, Amenoollah Khan, and a few other Dooranee chiefs, are
 said to be the instigators of the insurrection.
@@ -1480,7 +1515,7 @@ attack on the city, the troops gladly set out, and arrived unopposed in
 presence of the King, when, to their sorrow, instead of receiving
 _hookm_ to enter the city, the Shah almost rudely inquired why they had
 come! After standing under arms another hour, firing being heard towards
-the Sh√¥r Bazaar, the Brigadier sent Lieut. Melville of the 54th to
+the ShÙr Bazaar, the Brigadier sent Lieut. Melville of the 54th to
 inquire what was going on. On going down to the gate towards the city,
 he found the fugitives from Campbell's regiment flying in, and reporting
 that their regiment was entirely cut up: this he reported to the
@@ -1488,7 +1523,7 @@ Brigadier, who ordered him to take the light company down to the city
 gate, and whilst taking charge of that position to protect as best he
 could the retreating regiment. On arriving there, Lieut. Melville placed
 a section as a guard, and took the remaining three to the entrance of
-the Sh√¥r Bazaar, and formed them up facing the street: he had not been
+the ShÙr Bazaar, and formed them up facing the street: he had not been
 there more than five minutes, when he observed a disorderly rabble
 retreating at a quick pace towards him, pursued by a large body of
 Affghans, whilst others from the tops and windows of the houses kept up
@@ -1565,7 +1600,7 @@ secure the passes, and open the road to Seh Baba. The Tagow chief who
 attacked Sale's force on the road is said to have withdrawn his men; and
 now that all seems clear for our march down, this insurrection has risen
 up here. It was only two days ago Lady Macnaghten told Mrs. Sturt that
-the country was all quiet, except the little outbreak near T√©zeen!
+the country was all quiet, except the little outbreak near TÈzeen!
 
 _3d._--At three in the morning the drums in cantonments beat to arms, in
 consequence of a large body of men coming over the Siah Sung hill; they
@@ -1930,7 +1965,7 @@ in recovering the Commissariat fort, though no actual proposition to
 that effect was officially made to the General.
 
 On this day a report was carried to the King and Conolly that the rebels
-had mined from the Sh√¥r Bazaar to immediately under H. M.'s palace,
+had mined from the ShÙr Bazaar to immediately under H. M.'s palace,
 which said mine was to be sprung the same evening. The King instantly
 left the palace, and took up his abode at the Gate of the Haram Serai,
 where he remained during the rest of the siege; and all day, seated at a
@@ -1993,7 +2028,7 @@ Anderson's horse charged straight up the hill (just to the left of the
 gorge leading to the lake) in most gallant style, and drove the enemy
 along the ridge to the extreme left. Meantime, the 5th cavalry rode
 along the foot of the hill to the left, and charged up at that end; by
-which man≈ìuvre the enemy were hemmed in, in the centre of the two
+which manoeuvre the enemy were hemmed in, in the centre of the two
 cavalry corps, when a very severe encounter took place. From the top of
 our house we saw every thing distinctly; the gleaming of their swords in
 the sun, and the fire of their pistols and matchlocks: fresh horsemen
@@ -2085,7 +2120,7 @@ embrasures in the wall for three guns, to cover the attack on the
 garden. There is to be a simultaneous attack on the Commissariat fort;
 and the signal for escalading the breach with a company of Europeans,
 and one of natives, will be the explosion in blowing up the gate. Plans
-were sketched, and all the minuti√¶ written out, so that the General
+were sketched, and all the minutiÊ written out, so that the General
 might have no questions to ask. It is now midnight, and no reply has
 been sent from him, though an answer was to have come to say whether the
 work should be done or not.
@@ -2447,7 +2482,7 @@ five days without being either killed or confined.
 The Affghans, having persons who can read English, French, and Latin,
 were aware of all our secrets.
 
-Mohun Lull and the Na√Øb Shureef were our newsgivers from the city, and
+Mohun Lull and the NaÔb Shureef were our newsgivers from the city, and
 always gave intelligence of the arrival of any new chief or body of
 troops; also doing, or saying they were doing, all in their power to
 enter into some sort of terms. The King is gradually getting worse and
@@ -2491,7 +2526,7 @@ not more than half the loads usually arrived.
 
 We now began to bombard the city in earnest from Nicholl's battery,
 beginning at eight o'clock every evening and continuing until eleven,
-firing at intervals of about ten minutes from the 5¬Ω-inch mortar, and
+firing at intervals of about ten minutes from the 5Ω-inch mortar, and
 the nine-pounder. The effect was beautiful to us in the cantonments; but
 it is to be feared that was almost the only effect it had, as, from all
 we could learn, four or five were the usual average of victims, being a
@@ -2873,7 +2908,7 @@ persons professing to be travellers. No travellers are on the roads now.
 Cossids are scarcely procurable; the few that have been sent to recall
 the brigade have not succeeded in their attempt. The man who went on the
 6th was stopped and his letter read by a man who was educated at
-Loodianah. The enemy have another s√ßavant, who imbibed literature at the
+Loodianah. The enemy have another sÁavant, who imbibed literature at the
 college of Delhi. There is also a prisoner, a Mr. Tierney, in the city;
 whether he assists them or not we do not know.
 
@@ -3016,7 +3051,7 @@ about 5,000, and that he ordered a sally under Col. Monteath, of 600
 infantry, all his cavalry, and three guns. The cavalry maintained their
 character, and behaved nobly, and the enemy got severely handled.
 
-My letter, containing a pr√©cis of goings-on here from the 2d to the 8th
+My letter, containing a prÈcis of goings-on here from the 2d to the 8th
 inclusive, had reached Sale, and was the only detail of events that had
 been received; it was sent on to the Commander-in-chief, and a copy of
 it to Lord Auckland. Sale had written to Capt. Mackeson at Peshawer for
@@ -3633,7 +3668,7 @@ Skinner's horse: these men are all said to have families in the city.
 
 In the evening there was a great crowd of Affghans; some hundreds of
 them, all armed to the teeth, round the cantonments. They came in the
-most friendly manner, saying all was settled, _jung-i-kal≈´s_. The men
+most friendly manner, saying all was settled, _jung-i-kalus_. The men
 of the 44th went out of cantonments amongst them unarmed, were shaking
 hands with them, and receiving cabbages from them, unchecked by Lieut.
 Cadett, the officer on duty on that face, who seemed to think this
@@ -3723,7 +3758,7 @@ he would not do so; for they were not warriors, but had come out to see
 sights and amuse themselves.
 
 Sturt saw a man meanly dressed on foot stealing up close to the walls,
-and called out "_Pƒìsh Burr≈ç;_" on which he raised his hand,
+and called out "_Pesh Burro;_" on which he raised his hand,
 telescope fashion, to his eye, and showed the end of a note. He was
 passed on to the gate, and admitted into cantonments; and was said to be
 the bearer of a letter from Mahommed Akbar Khan. However, this is
@@ -4461,7 +4496,7 @@ they were fired on in returning, and ten horses without riders were the
 heralds of their return. One man only is missing, and we hope he may yet
 find his way in, as it is very dark, and the enemy may miss him.
 
-To avoid the enemy, they had to make a _d√©tour_ out of the road some
+To avoid the enemy, they had to make a _dÈtour_ out of the road some
 miles, and the men got dismounted by their horses stumbling and falling
 into ditches, &c. There was much anxiety relative to the purport of the
 message. It was supposed to be an urgent entreaty from the Envoy to the
@@ -5249,7 +5284,7 @@ a disastrous retreat.
 _27th._--The Council--Elphinstone, Shelton, Anquetil, and Chambers, with
 Major Pottinger--have ratified the treaty. No one but themselves exactly
 knows what this same treaty is; further than that it is most
-disgraceful! 14¬Ω lakhs to be given for our safe conduct to Peshawer;
+disgraceful! 14Ω lakhs to be given for our safe conduct to Peshawer;
 all our guns to be given up save six; and six hostages to be given on
 our part; and when they are sent Lawrence and Mackenzie are to return.
 
@@ -5262,7 +5297,7 @@ There has been great excitement in the city. Khan Shereen Khan refused
 to attend the Durbar; and Akbar's conduct has been generally condemned
 by the chiefs.
 
-Na√Øb Shureef paid for the interment of Sir A. Burnes's body; but it was
+NaÔb Shureef paid for the interment of Sir A. Burnes's body; but it was
 never buried; and part of it, cut into many pieces, is still hanging on
 the trees in his garden.
 
@@ -5431,7 +5466,7 @@ barracks.
 
 Snow has lain on the ground since the 18th of December.
 
-_Jan. 1st, 1842._--The Na√Øb Meer came in: negotiations are still going
+_Jan. 1st, 1842._--The NaÔb Meer came in: negotiations are still going
 on.
 
 The Nawaub Zeman Shall Khan and Osman Khan appear to be honourable men;
@@ -5447,7 +5482,7 @@ were cold and tired, and would finish the rest to-morrow.
 Two men came in to-day with a Koran to Sergeant Deane (who, from having
 an Affghan wife, has many acquaintances and friends amongst the people
 of Cabul): they report that Mahommed Akbar Khan is false; that 10,000
-Kohistanees are to attack us at T√©zeen, and all the Ghilzyes at
+Kohistanees are to attack us at TÈzeen, and all the Ghilzyes at
 Soorkhab.
 
 Offers have been made of provisions; but it is suspected that it is only
@@ -5518,8 +5553,8 @@ at this season; and even if they could, the chiefs cannot afford to
 weaken their party by sending their followers away.
 
 The thermometer to-day at sunrise was below zero; in the sitting room,
-with an enormous blazing fire, at noon, 40¬∞. Yesterday, with the same
-good fire, at 9 A.M., 11¬∞.
+with an enormous blazing fire, at noon, 40∞. Yesterday, with the same
+good fire, at 9 A.M., 11∞.
 
 Another excellent project of Major Pottinger's. Among our various
 vacillatory measures, there is again a thought, now that the time for
@@ -5947,7 +5982,7 @@ was there, and entered into communication with him: he agreed to protect
 the troops, on condition that he should receive hereafter 15,000 rupees;
 and that Pottinger, Lawrence, and Mackenzie should be given over to him
 as hostages for General Sale's evacuation of Jellalabad; but that the
-troops should not proceed further than T√©zeen until information be
+troops should not proceed further than TÈzeen until information be
 received of the march of the troops from that place. These disgraceful
 propositions were readily assented to; and the three officers went off
 to the Sirdar.
@@ -6244,7 +6279,7 @@ We hear that Mahommed Abkar Khan offered to escort the army down,
 provided the troops laid down their arms; but that the General went on,
 upon his own responsibility.
 
-We arrived at the T√©zeen fort, where we were well treated; and where we
+We arrived at the TÈzeen fort, where we were well treated; and where we
 found Lieut. Melville, 54th. He had, in guarding the colour of his
 regiment, received five severe wounds. He had fortunately seven rupees
 about him; these he gave to an Affghan to take him to the Sirdar, who
@@ -6391,7 +6426,7 @@ presenting itself, he scrambled on to it; and, with the assistance of a
 Mehter, gained the centre of the column, where the 44th and one gun
 still kept some order. Lieut. Melville was tied on the gun, and was told
 by Gen. Elphinstone, that he should be sent over to the charge of the
-Sirdar, Mahommed Akbar Khan, on reaching T√©zeen, or at any opportunity
+Sirdar, Mahommed Akbar Khan, on reaching TÈzeen, or at any opportunity
 of going.
 
 On a report of a large body of horse being observed in the rear, the gun
@@ -6436,14 +6471,14 @@ was said to be unsafe.
 The troops continued their fearful march: the remnant of the camp
 followers, with several wounded officers, went ahead: for five miles
 they saw no enemy: all who could not walk were necessarily left behind.
-They descended a long steep descent to the bed of the T√©zeen Nullah. At
+They descended a long steep descent to the bed of the TÈzeen Nullah. At
 this dip the scene was horrible: the ground was covered with dead and
 dying, amongst whom were several officers: they had been suddenly
 attacked and overpowered. The enemy here crowded from the tops of the
 hills in all directions down the bed of the Nullah, through which the
 route lay for three miles; and our men continued their progress through
 an incessant fire from the heights on both sides, until their arrival in
-the T√©zeen valley, at about half-past four P.M.
+the TÈzeen valley, at about half-past four P.M.
 
 The descent from the Huft Kohtul was about 2000 feet; and here they lost
 the snow.
@@ -6462,9 +6497,9 @@ Kubber-i-Jubhar, regarding disarming the Europeans: and again this was
 refused.
 
 The General then decided, weak and famished as the troops were, and
-without any prospect of procuring provisions at T√©zeen, to march at
+without any prospect of procuring provisions at TÈzeen, to march at
 seven in the evening (they had left Khoord Cabul, fifteen miles from
-T√©zeen, half-past six A.M.), and proceed, if possible, through the
+TÈzeen, half-past six A.M.), and proceed, if possible, through the
 Jugdaluk pass by eight or nine the next morning. In this consisted their
 only chance of safety; for, should the enemy obtain intimation of their
 approach, the pass would be occupied, and the object defeated. Johnson
@@ -6472,17 +6507,17 @@ pointed out to the General that Mahommed Akbar Khan and his party could,
 by means of a short cut across the mountains, start long after them, and
 arrive before them, ready to oppose them.
 
-Jugdaluk is about twenty-four miles from T√©zeen; the pass about two
+Jugdaluk is about twenty-four miles from TÈzeen; the pass about two
 miles long, very narrow, and commanded on both sides by high and
 precipitous hills.
 
-At T√©zeen Gen. Elphinstone received a note in cypher from Capt. Conolly,
+At TÈzeen Gen. Elphinstone received a note in cypher from Capt. Conolly,
 warning him that Mahommed Akbar Khan had quitted Cabul, with the avowed
 intention of getting into his hands the person of the General, and all
 the married people with their families.
 
 A message was sent to Mahommed Akbar Khan that they were going to march
-to Seh Baba, seven miles from T√©zeen (this place is sometimes called
+to Seh Baba, seven miles from TÈzeen (this place is sometimes called
 Tukeea-i-Fakeer): the road lies down the bed of a Nullah, with high
 hills on either side. The place is only remarkable from having a few
 trees and a grave or two under them; and from the latter I believe it
@@ -6492,7 +6527,7 @@ The camp followers having been the bane of this unfortunate army, they
 hoped to move off quietly and leave them behind; but no sooner did they
 start, than they found that all who were able to stand were accompanying
 them. They left their remaining gun behind; and Dr. Cardew, who was
-mortally wounded at the dip into the T√©zeen Nullah, was laid on the
+mortally wounded at the dip into the TÈzeen Nullah, was laid on the
 carriage to await death, which was rapidly approaching: he was found
 dead by Mahommed Akbar's people the next morning.
 
@@ -6510,7 +6545,7 @@ mountains to Jugdaluk; and across the Nullah is seen the short road to
 Cabul, but which cannot be travelled by guns or camels.
 
 At Seh Baba Dr. Duff (the Surgeon-General to the forces in
-Affghanistan), who had had his hand cut off with a penknife at T√©zeen,
+Affghanistan), who had had his hand cut off with a penknife at TÈzeen,
 in consequence of a severe wound, was from weakness obliged to lag
 behind, and was two days afterwards found murdered.
 
@@ -6920,7 +6955,7 @@ This suffices for a sample of the sufferings of the survivors.
 About four o'clock Sultan Jan (a cousin of the Sirdar) arrived with the
 ladies and gentlemen; also Lieut. Melville of the 54th, and Mr. Magrath,
 surgeon of the 37th, both of whom had been wounded between Khoord Cabul
-and T√©zeen. A large party of cavalry accompanied Sultan Jan, both
+and TÈzeen. A large party of cavalry accompanied Sultan Jan, both
 Affghan and our irregular horse, who had deserted, as before mentioned.
 
 _14th._--We marched twenty-four miles to Kutz-i-Mahommed Ali Khan:
@@ -7229,7 +7264,7 @@ of its restoration, as being invaluable to his widow. Dost Mahommed
 Khan, Abdool Guffoor Khan, &c., desired me to keep it myself; acting in
 the handsomest manner, and evincing much feeling on the occasion.
 
-_12th._--The snow at T√©zeen is reported to be knee-deep. A very dismal
+_12th._--The snow at TÈzeen is reported to be knee-deep. A very dismal
 day, with gentle rain at night. The Europeans, who have arrived, are all
 full of tales regarding each individual's escape. Six of them, amongst
 whom was Serg.-Major Lisson, of the 37th N. I., at daylight on the
@@ -7325,7 +7360,7 @@ more frequent in the evening. Part of our party made awnings in the
 courtyard to sleep under; but Mrs. Sturt and myself still preferred the
 house as safest.
 
-Dost Mahommed Khan brought workmen to clear away the _d√©bris_. He tells
+Dost Mahommed Khan brought workmen to clear away the _dÈbris_. He tells
 us our fort is the best of forty that have suffered in this valley; and
 that many are entirely thrown down. In one, a tower fell, and crushed
 five women and a man: others have not a wall remaining.
@@ -7749,7 +7784,7 @@ miles; and that they have got in a number of sheep and cattle: also,
 that an army is coming up from Shikarpore.
 
 Further reports assure us that Shah Shoojah left Cabul to proceed to
-B√©gramee, where his tents were pitched; but that he had not got further
+BÈgramee, where his tents were pitched; but that he had not got further
 than the Musjed, where John Hicks's tomb is, in front of the Bala Hissar
 gate, when he was cut down in his palkee by the son of Zeman Khan, and
 was immediately cut to pieces.
@@ -7810,7 +7845,7 @@ which caused much annoyance to us; and proved that the Mirza, despite
 his fair speeches, took care not to lose an opportunity of enriching
 himself at our expence.
 
-We had not proceeded far when we met some horsemen shouting _Kal≈´s
+We had not proceeded far when we met some horsemen shouting _Kalus
 shud_, and we were ordered to turn round: then we heard that our troops
 had been beat in the Khyber, and had lost ten guns. The next report was,
 that our troops had penetrated into the Lughman valley; another, that
@@ -7895,7 +7930,7 @@ Lady Macnaghten, Mrs. Mainwaring and child, Capt. and Mrs. Anderson and
 two children, and Capt. Lawrence. The other tents are similarly crammed:
 all spread their beddings (which touch each other) upon the ground.
 
-_14th._--A very tiresome hill on setting out,--the BƒÅdhpush or Windy
+_14th._--A very tiresome hill on setting out,--the Badhpush or Windy
 Back: the ascent rather difficult: the descent could be made good for
 guns with 100 sappers in a few days. Saw plenty of fruit trees in
 blossom on the hill; at the foot of which we halted, dismounted, and sat
@@ -7928,7 +7963,7 @@ been murdered, but is in power with the Dooranees, the Populzyes, and
 Akukzyes, who are in the ascendant; whilst the Barukzyes are at a
 discount:--that great commotion exists in Cabul:--that the soldiers, who
 were left there, are to remain; but the officers are to come and join us
-at T√©zeen to-morrow; whither we are to march, and go by roads
+at TÈzeen to-morrow; whither we are to march, and go by roads
 impracticable for cattle; all to walk, to Herat: we are to be there in
 two months, after which we are to be sent to Balkh.
 
@@ -7942,14 +7977,14 @@ Tagow.
 This day I was attacked with fever.
 
 _18th._--Halted. Mahommed Shah Khan is gone off to Cabul; we are to go
-to the hills above T√©zeen, and stay there till all is settled. If only a
+to the hills above TÈzeen, and stay there till all is settled. If only a
 small force comes up, the Affghans mean to cut them up in the Khoord
 Cabul; if a large force come, they will succumb at once. I was worse
 to-day: a pleasant prospect, as we daily expect to march. Our troops are
 said to be still at Lallpoorah, quieting refractory tribes.
 
-_19th._--A miserable day, and we marched through heavy rains to T√©zeen:
-we are told that no supplies were to be had where we were. Kod√° Buksh
+_19th._--A miserable day, and we marched through heavy rains to TÈzeen:
+we are told that no supplies were to be had where we were. Kod· Buksh
 Khan's fort, close at hand, is full of loot and plate. The earthquake
 has brought down part of the fort they have brought us to.
 
@@ -8072,7 +8107,7 @@ death.
 No guns excepting those of the mountain train could travel this road;
 and cavalry and infantry would be greatly annoyed from the heights.
 
-We did not go direct up the T√©zeen valley; but took the right hand
+We did not go direct up the TÈzeen valley; but took the right hand
 valley, which leads to the Jubhar Khail country, considered as the
 strongest of the Ghilzye mountain fastnesses. We passed an old Ghilzye
 fort on an eminence on our right; also a small colony of charcoal
@@ -8088,13 +8123,13 @@ and says he can bring two lakhs of fighting men against us.
 The Ghazeeas are getting discontented; and complain that they have had
 no food for four days.
 
-The Sirdar has ordered our horses back to T√©zeen: he says he cannot feed
+The Sirdar has ordered our horses back to TÈzeen: he says he cannot feed
 them here.
 
 _24th._--The General died last night, and his remains are to be sent to
 Jellalabad. Mackenzie was sent there on a secret mission just
 afterwards. The General's death was hastened by a rumour of a Chupao
-from Cabul the very day we left T√©zeen. At mid-day all were put on
+from Cabul the very day we left TÈzeen. At mid-day all were put on
 horseback, and sent off to a fort near at hand. In the general hurry to
 save themselves, Mrs. Waller, with her two children, seemed to be quite
 forgotten. Mr. Waller went to Major Pottinger, who was mounted on his
@@ -8162,14 +8197,14 @@ Jellalabad.
 Mahommed Shah Khan arrived at night.
 
 _30th April._--A messenger came in from Amenoollah Khan. The government
-have refused to pay the 14¬Ω lakhs; and the Affghans say that
+have refused to pay the 14Ω lakhs; and the Affghans say that
 Pottinger and Lawrence are answerable for it. Is not Akbar more
 answerable for the non-fulfilment of the treaty? he who went to the
 Durbar, booted, (on the 7th of January,) ready to start after our army
 for the avowed purpose of its annihilation?
 
 The Rajah has come in; he goes off to Cabul again to-morrow. Goolam
-Moyen oo deen also came to see us: he goes with the Sirdar to T√©zeen
+Moyen oo deen also came to see us: he goes with the Sirdar to TÈzeen
 to-day.
 
 All accounts seem to agree in this: that although the Affghans are
@@ -8231,12 +8266,12 @@ of 30,000 rupees.
 
 It is now reported that we are to go in three or four days to Ghuznee,
 where the Sirdar's cousin Shumshudeen commands. I heard from Sale. The
-Wallers and Eyres arrived from T√©zeen.
+Wallers and Eyres arrived from TÈzeen.
 
 _4th._--The Sirdar is gone or going to Cabul.
 
 Capt. Troup is just summoned to join him and Pottinger: Magrath remains
-at T√©zeen; and Mackenzie, they say, is gone back to Jellalabad again.
+at TÈzeen; and Mackenzie, they say, is gone back to Jellalabad again.
 
 Another account states that Amenoollah has fled to the Logur country,
 and that Futteh Jung holds the Bala Hissar. Further accounts state that
@@ -8270,7 +8305,7 @@ be unmolested.
 
 Threats are held out that if our troops move up higher than Gundamuk, we
 shall also be taken 20 miles further up into the hills. To this there
-are two objections: we are now above the T√©zeen valley, in the Jubhar
+are two objections: we are now above the TÈzeen valley, in the Jubhar
 Khail country; these people declare we shall not go further, or if we do
 they will themselves take us to our army, for they do not want to bring
 down upon themselves the vengeance of our nation; secondly, we have no
@@ -8346,7 +8381,7 @@ There have been a number of reports to-day, which I believe to have no
 foundation in truth: amongst others, that the Ghilzye ladies have been
 packing up all night; and are going to give us the slip and leave us, in
 consequence of hearing that our force is coming up in four divisions;
-one of which arrived at T√©zeen at four this morning, and looted the
+one of which arrived at TÈzeen at four this morning, and looted the
 place: and that we are to be sent forty kos higher up into the hills.
 This is, however, contradicted, as some persons who were sent out
 yesterday to explore have returned, and say that the snow is two feet
@@ -8444,7 +8479,7 @@ thrown over the head and shoulders in the house, as in Hindostan; and
 when they go out they wear the bourka, ru-i-bund, and legwraps:
 high-heeled iron-shod slippers complete the costume. After a time an
 extremely dirty cloth was spread over the numdas in front of us, and
-dishes of pillau, dhye or sour curd, and f√©rn√©z or sweet curd, were
+dishes of pillau, dhye or sour curd, and fÈrnÈz or sweet curd, were
 placed before us. Those who had not taken a spoon with them, ate with
 their fingers, Affghan fashion;--an accomplishment in which I am by no
 means _au fait_. We drank water out of a tea-pot. A dinner was given to
@@ -8507,7 +8542,7 @@ far as the Musjid, finding Akbar at the head of 3,000 men, fearing
 treachery, he retreated, shut the gates, and fired on Akbar's party.
 Another account states, that when the gates were opened for Futteh Jung
 to go out, Amenoollah released the hostages, and then went over to the
-Sirdar himself. Mackenzie is supposed to be at T√©zeen to-day; and will
+Sirdar himself. Mackenzie is supposed to be at TÈzeen to-day; and will
 be here either to-morrow or in three days. It is worthy of remark, that
 during Lady Macnaghten's visit to the ladies this morning, Dost Mahommed
 Khan was present the whole time; which was decidedly, according to
@@ -8550,7 +8585,7 @@ Chintz, sugar candy, tea, and cheese, distributed amongst the ladies;
 they were sent to us by our friends at Jellalabad: also Shalu (Turkey
 red cotton cloth) and jean, with boots and shoes for the gentlemen. We
 also received the March overland mail. I heard a droll anecdote of Akbar
-when he went off to Cabul from T√©zeen. His followers asked him what tent
+when he went off to Cabul from TÈzeen. His followers asked him what tent
 they should take for him: his reply was given with great good humour (he
 believed himself on the point of mounting a throne);--"The ladies and
 people above have got all our tents here; but you may send my salaam to
@@ -8558,7 +8593,7 @@ Gen. Sale, and ask him to lend me one of those he took from me."
 
 _22nd._--The first thing we heard this morning was, that ponies had
 arrived and that we are going to Cabul. They afterwards told us that we
-are going to Sh√©wakee, a fort near the Pillar. The officers went to Dost
+are going to ShÈwakee, a fort near the Pillar. The officers went to Dost
 Mahommed and informed him that only thirty-three ponies had arrived, and
 no camels; and that it was impossible we could move without more means
 of transport: so the order to march at mid-day was rescinded; and we
@@ -8570,7 +8605,7 @@ road that is bad for these animals.
 
 Started at a little before 10 A.M., and got to the fort we formerly went
 to at Khoord Cabul, at 6 P.M. We travelled fully twenty-two miles,
-following the road to T√©zeen, by which we came to Zanduh, for some time,
+following the road to TÈzeen, by which we came to Zanduh, for some time,
 and then turning to the left. Except in a few places the road was
 tolerable. We crossed a highly cultivated valley studded with forts; a
 perfect oasis in our barren mountain track. The yellow briar-rose is in
@@ -8599,7 +8634,7 @@ rocky hill; after which we passed a tope which has no appearance of
 having been opened. There is a fine tank nearly opposite to it, shaded
 by trees, and containing small fish: it is supplied with beautifully
 clear water from the Karez, near it; from which, I suppose, it takes its
-name of K√°reza. We then pursued our way over a plain, covered with
+name of K·reza. We then pursued our way over a plain, covered with
 stones, till we ascended a difficult rocky hill, which was surmounted by
 the famous Pillar generally ascribed to Alexander the Great. It is
 evidently not of Affghan workmanship; and is now out of the
@@ -8725,7 +8760,7 @@ have guards with us there; and every night we are locked into the
 square; and the servants cannot go outside the gate for any purpose
 without a guard.
 
-_1st June._--The Na√Øb Shureef is obliged to hide for safety. Mahommed
+_1st June._--The NaÔb Shureef is obliged to hide for safety. Mahommed
 Rufeek is sent away; and Ali Mohammed Khan has now sole charge of us.
 
 _2d._--It is true that our troops left Kandahar on the 16th of last
@@ -8837,7 +8872,7 @@ tear off, and leave the rest.
 
 Capt. Troup did not return to the Sirdar till this morning. The man, who
 went with him, has returned; and states that the Sirdar has blown up the
-bastion of the Bala Hissar which is nearest to the Sh≈çr Bazar. There
+bastion of the Bala Hissar which is nearest to the Shor Bazar. There
 is, however, some discrepancy in his account; as he states that he saw
 the Sirdar's men parading about on the tops of the very bastion that has
 been destroyed: he also added, that they were busily employed in
@@ -8867,7 +8902,7 @@ Khan and his guard are pleased to communicate; excepting those of our
 party who perchance overhear them speaking amongst themselves; when,
 however, they generally use Pushtoo, to prevent our understanding them.
 Four Coolies have arrived with two tin boxes and two baskets from
-T√©zeen. They are supposed to have come from Jellalabad; as all were
+TÈzeen. They are supposed to have come from Jellalabad; as all were
 quickly huddled into a room and locked up; and a man despatched to the
 Sirdar to know his pleasure concerning them.
 
@@ -8917,7 +8952,7 @@ force not moving to his succour, he probably became disheartened. He now
 has not only lost his treasure; but it is likely he may lose his life
 also: for he never can feel safe whilst in the power of Akbar and
 Mahommed Shah. The latter resides in the Bala Hissar; the former in the
-Sh≈çr Bazar. Both Mahommed Shah and Sultan Jan were wounded in the
+Shor Bazar. Both Mahommed Shah and Sultan Jan were wounded in the
 explosion of the bourj, by stones falling on their heads.
 
 Pollock's force is suffering from sickness; occasioned by the great heat
@@ -8953,7 +8988,7 @@ preserves.
 It appears very uncertain what power Akbar really possesses. The
 Kuzzilbashes occupy the gate which commands their quarter. Mahommed Shah
 Khan has one. Futteh Jung is still king, and lives in the interior of
-the Bala Hissar. Akbar still inhabits a house in the Sh≈çr Bazar.
+the Bala Hissar. Akbar still inhabits a house in the Shor Bazar.
 
 _12th._--A Hindostanee was severely beaten at the gate; being suspected
 of bringing in news.
@@ -8978,7 +9013,7 @@ capital; and when it would be too late to rectify his error.
 
 _15th._--In consequence of having yesterday given a rupee to the
 Khoordish Baghwan, he had this evening two dallies of the finest
-mulberries the garden produced (the B√©danas) ready for us: nicely cooled
+mulberries the garden produced (the BÈdanas) ready for us: nicely cooled
 by the rill of the stream, and covered with a shower of roses. We filled
 our basket; and sat and ate the fruit under the vines; and look forward
 to delicious sherbet from the flowers to-morrow.
@@ -9001,7 +9036,7 @@ was put to death by his minister, Yai Mahommed, some time since) is
 coming with an army from Herat; to form a coalition with Futteh Jung,
 Akbar, the Ghilzyes, and all the Affghan chiefs. They are to go down and
 fight our force: if they are successful, we are to remain as we are; if
-not, to be sent vi√¢ Charekar to Turkistan.
+not, to be sent vi‚ Charekar to Turkistan.
 
 A report prevalent amongst the Affghans that our force has marched from
 Jellalabad; and that we consequently shall soon be removed from hence.
@@ -9021,7 +9056,7 @@ the captives with him. This Akbar will not hear of: and they have had a
 quarrel, ending in a fight. The sound of cannon has been heard; also
 vollies of musketry. A grand battle is to come off on Sunday.
 
-_18th._--Waterloo day.--It seems that we are to be sent vi√¢ the Kohistan
+_18th._--Waterloo day.--It seems that we are to be sent vi‚ the Kohistan
 to Bokhara. Mackenzie writes, that we are to be prepared for a sudden
 move.
 
@@ -9056,13 +9091,13 @@ _25th._--Mackenzie and Troup arrived.
 
 Colonel Palmer is said to have been tortured at Ghuznee. Mohun Lull has
 been seized, and tortured. Humza Khan has been imprisoned by the Sirdar.
-Ali Bega, Na√Øb Shureef, and Jan Fishan Khan have fled: the latter's two
+Ali Bega, NaÔb Shureef, and Jan Fishan Khan have fled: the latter's two
 sons have been murdered. Osman Khan (the late wuzeer) has been seized by
 Akbar. Nott is said to have returned to Kandahar; after putting to death
 all his Affghan captives, and blowing up Kelat-i-Ghilzie. This seems (if
 true) to be a strange proceeding, if we are to retain the country; as
 the fortress was but just completed; and was considered an indispensable
-site for a granary and dep√¥t of troops. Major Rawlinson's opinion is,
+site for a granary and depÙt of troops. Major Rawlinson's opinion is,
 that our troops will all be withdrawn in the autumn: but this does not
 square with the order, received by Ali Bega from Dallas, to lay in all
 the provisions he can possibly store in Cabul.
@@ -9141,7 +9176,7 @@ rose-water.
 
 The red plum is not permitted to ripen properly: it has some flavour;
 and is called turnasook. The green plum looks something like a
-greengage; but has no flavour except that of _eau sucr√©e_.
+greengage; but has no flavour except that of _eau sucrÈe_.
 
 It is said, on the authority of Sergt. Wade,--who was informed by his
 wife, who professed to have her information from Mahommed Shah Khan's
@@ -9249,7 +9284,7 @@ kindness; when, as soon as they reached the door, they were to have been
 assassinated. They made some excuse of ill health; and escaped. Nothing
 could exceed the kindness of Zeman Shah Khan, both to the hostages and
 the little girl; who became much attached to her new friends. Taj
-Mahommed Khan, Khan Shireen Khan, the Na√Øb Shureef, and many others, did
+Mahommed Khan, Khan Shireen Khan, the NaÔb Shureef, and many others, did
 all they could, consistently with the safety of both parties, to make
 them comfortable.
 
@@ -9342,7 +9377,7 @@ purveyors: but he would never send to us to supply his wants.
 _20th._--Ali Mahommed Khan reports that 1000 men are gone to defend the
 passes: he also hints that we shall be released soon.
 
-_22d._--Dost Mahommed Khan came. He says we shall be kal√¥ss in twenty
+_22d._--Dost Mahommed Khan came. He says we shall be kalÙss in twenty
 days; that there is to be an exchange of prisoners; and that the guns
 are to be given up.
 
@@ -9591,7 +9626,7 @@ whenever the _hookm_ arrives: we have moreover purchased two ponies.
 _13th._--The republic has only endured a day. Zeman Shah Khan is again
 Shah Zeman Shah. We heard guns, probably in honour of the event. This is
 news to mark my birthday; which is not likely to be spent much as a
-_jour de f√™te_ by a prisoner.
+_jour de fÍte_ by a prisoner.
 
 I fear Zeman is too much in the hands of Akbar and Mahommed Shah for him
 to do us any good; although he is, and ever has been, well disposed
@@ -9616,7 +9651,7 @@ Johnson.
 
 _15th._--The news of to-day is, that Nott's force has left Kandahar;
 taking Timor Shah with them. They are said to have taken the route
-leading to Dera Isma√´l Khan; but it is thought possible they may, about
+leading to Dera IsmaÎl Khan; but it is thought possible they may, about
 ninety miles from Kandahar, at _Gulnarye_, strike to the north, and
 pursue that road to Ghuznee; which would be far preferable to crossing
 the mountains by the Gholary pass, near the river, and that they will
@@ -9791,7 +9826,7 @@ else. It was above ten days after our departure from Cabul, before I had
 the opportunity to change my clothes, or even to take them off and put
 them on again, and wash myself: and fortunate were those who did not
 possess much live stock. It was not until after our arrival here (at
-Sp√©wakee, near Cabul) that we completely got rid of _lice_, which we
+SpÈwakee, near Cabul) that we completely got rid of _lice_, which we
 denominated infantry: the fleas, for which Affghanistan is famed (and
 particularly Cabul), we call light cavalry.
 
@@ -9907,7 +9942,7 @@ rose we left the fort; camels for kujavas and fifty ponies having been
 sent for our accommodation. All our ponies, &c., were taken from us; and
 on our removal, a certain number were sent. We fortunately purchased two
 ponies to carry our baggage. We were told we were to go to Killa Kazi,
-about seven miles from Cabul: but we made a long _d√©tour_ to avoid the
+about seven miles from Cabul: but we made a long _dÈtour_ to avoid the
 city; and crossed the Loghur river: the road was very tolerable. After
 proceeding about five miles we came to several forts on our right; the
 first a large one; and were told it was called Killa Kazi. We passed a
@@ -9967,7 +10002,7 @@ Sultan Jan; after his departure, they insulted the gentlemen who went to
 get it ready for us; and asked, how the Kaffirs dared to wear their
 shoes there. We, therefore, spread loonghees to form a shade, as the
 heat was excessive; and at night it was very cold. At eleven the
-_r√©veill√©_ was beat by the drums, and performed by the pipes; a kind of
+_rÈveillÈ_ was beat by the drums, and performed by the pipes; a kind of
 repetition of one, two, three: and at midnight we were all ready to
 start.
 
@@ -10003,7 +10038,7 @@ child found there. We cannot be surprised at the men taking signal
 vengeance; but we fear the news is too good to be true. We met on our
 road two horsemen; whom we supposed to be expresses. We met, also,
 several camels, bullocks, and donkeys, laden, for the most part, with
-assaf≈ìtida.
+assafoetida.
 
 It seems a plan was proposed this morning, and negatived. I only heard
 of it by chance; so no thanks are due for courtesy to those, who, had
@@ -10240,7 +10275,7 @@ _12th._--Saleh Mahommed Khan hoisted the standard of defiance on the
 walls,--white, with a crimson edge and green fringe.
 
 Two Huzara chiefs have tendered their allegiance to Major Pottinger; as
-also Zulficar Khan, the Na√Øb of the province, who, we heard, had fled.
+also Zulficar Khan, the NaÔb of the province, who, we heard, had fled.
 Another man has been appointed in his room; and has paid 1000 rupees to
 Saleh Mahommed for his appointment: which money was laid out in
 purchasing khelluts (for the chiefs who came in to us) from a Kaffila
@@ -10255,10 +10290,10 @@ from Ghuznee are, that Gen. Nott was one march on the other side of it.
 _13th._--A large party travelling by, supposed to be the Meer Hadje and
 his family. Saleh Mahommed Khan determined to seize them. They pulled
 the Moollah off his horse; who only proved to be a Sheikh somebody, a
-relation of the Hadje's; so they were all _bien quitt√©s pour la peur_,
+relation of the Hadje's; so they were all _bien quittÈs pour la peur_,
 and proceeded on their way in double quick. There is a talk of arming
 our men, if we can get muskets. Our valley is now almost hermetically
-sealed at both ends. Akbar is at B√©gram in the Kohistan; the Meer Hadje
+sealed at both ends. Akbar is at BÈgram in the Kohistan; the Meer Hadje
 and Zeman Shah Khan quiet at Cabul.
 
 The Meer Akhor went off at night with his Juzailchees; taking with him
@@ -10389,7 +10424,7 @@ assistance.
 
 He told us, that Gen. Nott had gained two victories on the 28th and
 30th, at Ghuznee and Maidan; and that Gen. Pollock had beaten Akbar at
-Jugdaluk and T√©zeen. He also, most considerately, informed me of Sale
+Jugdaluk and TÈzeen. He also, most considerately, informed me of Sale
 having been struck by a spent ball without injury; and congratulated me
 on our gracious Queen's bestowal of the highest order of the Bath upon
 my gallant husband;--a distinction, I believe, unparalleled in his
@@ -10527,24 +10562,24 @@ that no aid was given, either to him or Trevor, Anquetil or Mackenzie,
 is well known. Where the blame rests, it is not for _me_ to determine.
 
 
-Not only did Taj Mahommed Khan, but also the Na√Øb Shureef, warn Sir
+Not only did Taj Mahommed Khan, but also the NaÔb Shureef, warn Sir
 Alexander. The latter was very intimate with him; and they were both
 well known to most of those officers who at all associated with the
 Affghan gentlemen.
 
-Mention is made of the Na√Øb in one of the Bombay papers; in which he is
-represented as a very respectable person,--a Na√Øb in Capt. Johnson's
+Mention is made of the NaÔb in one of the Bombay papers; in which he is
+represented as a very respectable person,--a NaÔb in Capt. Johnson's
 office. Khan Shireen Khan is the head of the Kuzzilbashes; and Mahommed
-Shureef was his Na√Øb, or the governor under him;--a man of large
+Shureef was his NaÔb, or the governor under him;--a man of large
 estates; who, from his adherence to our cause, has had to fly his
 country, with what little he could save; but leaving landed property,
 worth above two lakhs of rupees, to the mercy of his enemies, the
-Barukzyes. Na√Øb Shureef paid a large sum for the interment of the bodies
+Barukzyes. NaÔb Shureef paid a large sum for the interment of the bodies
 of Burnes and his brother. It was asserted that he was deceived, but his
 intention was equally good. After the return of the British force to
 Cabul, the bodies were reinterred.
 
-Taj Mahommed Khan and Na√Øb Shureef have both paid every attention in
+Taj Mahommed Khan and NaÔb Shureef have both paid every attention in
 their power to the hostages, left in Cabul: and, as far as regards Mrs.
 Sturt and myself, they sent us, whenever they could obtain a secret
 conveyance, various little comforts. Tea, sugar, stockings, gloves, and
@@ -10680,7 +10715,7 @@ first to cross the ditch, twenty feet wide.
  It is deemed too bad that we should suffer ourselves to be bullied in
  the way we have been to-day outside the Siah Sung gate, to say nothing
  of people being fired at every night coming to us with supplies;
- therefore it is determined that you throw up some sort of fl√™che, or
+ therefore it is determined that you throw up some sort of flÍche, or
  other work, to hold a dozen men or so, which would keep these fellows
  at a more respectable distance, protect our animals and camp followers,
  save our bridge, and do away with the necessity of a cavalry piquet. If
@@ -10717,7 +10752,7 @@ first to cross the ditch, twenty feet wide.
 
  Your's truly,
  (Signed) WM. THAIN.
- _10th Dec._ 8¬Ω P.M.
+ _10th Dec._ 8Ω P.M.
 
 
  No. V.
@@ -10949,7 +10984,7 @@ DESTRUCTION of the BRITISH ARMY. With a JOURNAL OF IMPRISONMENT IN
 AFFGHANISTAN. By LIEUTENANT VINCENT EYRE, Bengal Artillery. _Fifth
 Edition._ Post 8vo., 12_s._
 
-‚ÅÇ _The_ CONCLUDING PART _of the_ PRISON DIARY _may be had separately,
+*** _The_ CONCLUDING PART _of the_ PRISON DIARY _may be had separately,
 to complete former Editions._ Price 3_s._ 6_d._
 
 
@@ -11151,7 +11186,7 @@ Edition._ With a Portrait. 8vo., 10_s._ 6_d._
 
 COUNT LEON DE LABORDE.
 
-JOURNEY through ARABIA PETR√ÜA to MOUNT SINAI, and the EXCAVATED CITY of
+JOURNEY through ARABIA PETR∆A to MOUNT SINAI, and the EXCAVATED CITY of
 PETRA--the Edom of the Prophecies. By M. LEON DE LABORDE. _Second
 Edition._ With 65 Plates, Woodcuts, and Maps. 8vo., 18_s._
 
@@ -11332,7 +11367,7 @@ Professor of Moral Philosophy in the University of Oxford. Fcap. 8vo.,
 
 REV. DR. ROBINSON.
 
-BIBLICAL RESEARCHES in PALESTINE, MOUNT SINAI, and ARABIA PETR√ÜA, being
+BIBLICAL RESEARCHES in PALESTINE, MOUNT SINAI, and ARABIA PETR∆A, being
 a Journal of Travels undertaken in reference to Biblical Geography. By
 Rev. Dr. ROBINSON. With new Maps and Plans. 3 vols. 8vo., 45_s._
 
@@ -11526,4 +11561,367 @@ JOHN MURRAY, ALBEMARLE STREET.
 End of the Project Gutenberg EBook of A Journal of the Disasters in
 Affghanistan, 1841-2, by Florentia Sale
 
-*** END OF THE PROJECT GUTENBERG EBOOK 50219 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK DISASTERS IN AFFGHANISTAN, 1841-2 ***
+
+***** This file should be named 50219-8.txt or 50219-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/2/1/50219/
+
+Produced by MWS, Chris Pinfield and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
